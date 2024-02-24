@@ -9,7 +9,7 @@ elif n2 > n1 and n2 > n3:
     print("El numero ", n2, " es el mayor")
 
 elif n3 > n2 and n3 > n1:
-    print("El numero ", n3, " es el mayor")
+    print("El numero", n3, "es el mayor")
 
 else:
     print("Los 3 numeros son iguales")
